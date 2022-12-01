@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../where_this_place/img"
+		},
+		{
+			"path": "../where_this_place/style.css"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "world_map"
+	}
+}
